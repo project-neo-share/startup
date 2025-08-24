@@ -1,2 +1,5 @@
-# startup
-hands-on
+# 한국공학대학교 
+창업워크숍 특강(Hands-on)
+
+강송희 교수
+
